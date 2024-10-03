@@ -1,0 +1,1 @@
+start "" "ms-windows-store://pdp?productid=9ncvdn91xzqp"
